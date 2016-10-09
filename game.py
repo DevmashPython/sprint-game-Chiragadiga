@@ -60,3 +60,7 @@ time_elap=time.time()-s_time
 if m==0:
     print"\nCongrats you have finished the game"
     print "\nTime taken is " +str(round(time_elap))
+    
+'''
+1. Mention controls for the game.
+'''
